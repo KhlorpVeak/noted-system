@@ -1,7 +1,3 @@
-# noted-system
-
-# how to create project
-
 # install node
 
 # create project
